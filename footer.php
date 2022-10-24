@@ -1,11 +1,10 @@
-<!-- Footer Section Starts -->
-<link rel="stylesheet" href="../css/index.css">
-<div class="footer text-center">
-       <div class="wrapper">
-            <p>2022 All right reserved, Foot House. Developed By -<a href="">IT TEAM</a></p>
+<!-- footer Section Starts Here -->
+<section class="footer">
+        <div class="container text-center">
+            <p>All rights reserved. Designed By:  <a href="#">IT Team</a></p>
         </div>
-       </div>
-       <!-- Footer Section Ends -->
+    </section>
+    <!-- footer Section Ends Here -->
 
-    </body>
+</body>
 </html>
