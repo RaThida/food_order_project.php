@@ -1,0 +1,40 @@
+h1{
+    font-size: 30px;
+    color: rgb(70, 156, 113);
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  table{
+    width:50%;
+    table-layout:fixed;
+  }
+  .tbl-header{
+    background-color: rgba(255,255,255,0.3);
+   }
+  .tbl-content{
+    height:300px;
+    overflow-x:auto;
+    margin-top: 0px;
+    border: 1px solid rgba(255,255,255,0.3);
+  }
+  th{
+    padding: 20px 15px;
+    text-align: right;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(39, 223, 162);
+    text-transform: uppercase;
+  }
+  td{
+    padding: 15px;
+    text-align: left;
+    vertical-align:left;
+    font-weight: 200;
+    font-size: 20px;
+    color: rgb(15, 78, 94);
+    border-bottom: solid 1px rgba(104, 233, 201, 0.767);
+  }
+
+
